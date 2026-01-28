@@ -17,7 +17,29 @@ To address this, the project investigates multiple modelling strategies:
 - Comparison between custom CNNs and transfer learning
 
 ---
+Installation
 
+Before running the code, ensure that you have the required Python libraries installed. You can install all dependencies by running the following command in your terminal:
+
+pip install numpy pandas tensorflow seaborn matplotlib scikit-learn
+
+Dependencies:
+
+NumPy: A package for scientific computing with Python.
+
+Pandas: A fast, powerful, flexible, and easy-to-use data analysis and manipulation library.
+
+TensorFlow: An open-source library for machine learning and deep learning tasks.
+
+Seaborn: A Python visualization library based on Matplotlib for statistical graphics.
+
+Matplotlib: A plotting library for creating static, animated, and interactive visualizations.
+
+Scikit-learn: A machine learning library for Python, including algorithms for classification, regression, clustering, etc.
+
+After installing the dependencies, you can start running the project code.
+
+---
 ## Dataset
 
 - **Dataset:** Oxford-IIIT Pet Dataset  
