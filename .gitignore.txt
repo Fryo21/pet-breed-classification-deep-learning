@@ -1,0 +1,10 @@
+# Datasets
+*.zip
+datasets/
+
+# Large media
+*.mp4
+
+# ML models
+*.h5
+
