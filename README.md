@@ -104,5 +104,3 @@ Potential extensions include:
 
 ---
 
-## Repository Structure
-
